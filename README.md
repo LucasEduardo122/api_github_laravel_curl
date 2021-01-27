@@ -28,7 +28,7 @@ git clone https://github.com/LucasEduardo122/api_github_laravel_curl.git
 
 Siga os passos abaixo para contribuir:
 
-1. Faça o *fork* do projeto (<https://github.com/LucasEduardo122/Sistema_de_imagens>)
+1. Faça o *fork* do projeto (<https://github.com/LucasEduardo122/api_github_laravel_curl.git>)
 
 2. Clone o seu *fork* para sua maquína (`git clone https://github.com/LucasEduardo122/api_github_laravel_curl.git`)
 
